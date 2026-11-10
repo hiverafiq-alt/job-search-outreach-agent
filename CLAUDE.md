@@ -1,0 +1,1 @@
+Read AGENTS.md and MASTER_PROMPT.md. Use the same onboarding and approval workflow. Discover connected tools; do not assume access from a product name. If a required tool is unavailable, preserve state and explain the missing capability. Do not fabricate a successful operation.
