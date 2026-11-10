@@ -1,8 +1,8 @@
 .env
 .env.*
 !.env.example
-data/
-private/
+/data/
+/private/
 out/
 dist/
 build/
